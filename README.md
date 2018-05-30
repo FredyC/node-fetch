@@ -9,6 +9,10 @@ node-fetch
 
 A light-weight module that brings `window.fetch` to Node.js
 
+# THIS IS FORK
+
+Based on [this discussion](https://github.com/bitinn/node-fetch/issues/461) I've made this fork to mitigate issue with NodeJS 8.6.0 ~ 10.0.0. I cannot ensure this package will stay up to date with the original, but don't by shy and let me know if update is needed.
+
 
 ## Motivation
 
